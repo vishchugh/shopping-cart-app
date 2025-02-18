@@ -12,6 +12,9 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/shopping-cart.git
 cd shopping-cart
+```
 
-## 📦 Usage
+## 🧑🏻‍💻 Usage
+```bash
 python my_app.py --fav_fruits "apple,banana,orange"
+```
