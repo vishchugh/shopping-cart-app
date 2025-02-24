@@ -1,5 +1,5 @@
-from .ShoppingCart.shopping_cart import ShoppingCart
-from .Fruit.fruit import Fruit
+from .ShoppingCart import ShoppingCart
+from .Fruit import Fruit
 
 
 def initialize_shopping_cart():
